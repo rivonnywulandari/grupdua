@@ -1,0 +1,3 @@
+Workshop: Github
+Feedback:
+Materi workshop ini menarik karena menurut saya mengetahui cara kerja github dapat membantu dalam pengembangan software kedepannya. Sesi workshop yang interaktif dan praktis membantu saya mempelajari konsep-konsep dasar seperti pembuatan repositori, pengelolaan branch, pull request, dan penggabungan kode, dan penyelesaian konflik.
